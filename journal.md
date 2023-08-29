@@ -8,4 +8,4 @@ I found out the difference between compilation and interpretation.
 Compilation - The source program is translated once (however, this act must be repeated each time you modify the source code) by getting a file (e.g., an .exe file if the code is intended to be frun under MS Windows)  continuing the machine code; now you can distribute the file worldwide; the program that performs this translatino is called a piler or translator. 
 Interpretation - You (or any user of code) can translate the source program each time it has to be run; the program performing this kind of transformation is called an interpreter, as it interprets the code every time it is intended to be executed; it also means that you cannot just distribute the source code as- is, because the end user also needs the interpreter to execute it. 
 # August 23rd, 2023
-I found out that an interpreter can inform me where the errior is lcoated and what caused it, but this can be very misleading. 
+I found out that an interpreter can inform me where the error is lcoated and what caused it, but this can be very misleading. 
