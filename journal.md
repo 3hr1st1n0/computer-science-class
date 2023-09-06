@@ -9,3 +9,6 @@ Compilation - The source program is translated once (however, this act must be r
 Interpretation - You (or any user of code) can translate the source program each time it has to be run; the program performing this kind of transformation is called an interpreter, as it interprets the code every time it is intended to be executed; it also means that you cannot just distribute the source code as- is, because the end user also needs the interpreter to execute it. 
 # August 23rd, 2023
 I found out that an interpreter can inform me where the error is located and what caused it, but this can be very misleading. 
+# September 6th, 2023
+I have finally finished the first Module of Python Essentials 1. I took the test and got an 90%. I have also learned how to do 
+print("Hello World!")
