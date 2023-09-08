@@ -12,3 +12,5 @@ I found out that an interpreter can inform me where the error is located and wha
 # September 6th, 2023
 I have finally finished the first Module of Python Essentials 1. I took the test and got an 90%. I have also learned how to do 
 print("Hello World!")
+# September 8th, 2023
+Today, I have finally started learning what a function and a string is! This is something I've been wanting to learn for awhile. Totally great. Totally. 
