@@ -16,3 +16,5 @@ print("Hello World!")
 Today, I have finally started learning what a function and a string is! This is something I've been wanting to learn for awhile. Totally great. Totally. 
 # September 12th, 2023
 Today, I am learning about print() errors.  I am learning what the effect the print() function causes. 
+# September 13th, 2023
+I am finally coding and using different arguments. Yay!
