@@ -22,3 +22,7 @@ I am finally coding and using different arguments. Yay!
 The print() function is a built-in function. It prints and outputs a specified message to the screen/console window. Built-in functions, contrary to user-defined, are always available and don't have to be imported. 
 # September 29th, 2023
 I'm on Section 3 of Module 2. This module is EXTREMELY LONG, I SWEAR.
+# October 16th, 2023 
+I am now on Module 3
+# October 24th, 2023
+I am starting to use vex code.
